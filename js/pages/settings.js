@@ -5,7 +5,7 @@ const META = {
   maintenance_mode: ['Maintenance mode', 'Stops new matches. Use during upgrades.'],
   chat_enabled: ['In-call text chat', 'Lets matched users send text messages.'],
   gender_filter_enabled: ['Gender filter (Premium)', 'Premium users can choose who they match with.'],
-  country_filter_enabled: ['Country filter (Premium)', 'Premium users can match by country.'],
+  country_filter_enabled: ['Country filter', 'Everyone can choose which country to match with (free).'],
   priority_matching_enabled: ['Priority matching (Premium)', 'Premium users are matched first.'],
   report_threshold: ['Reports before auto-ban', 'Different people reporting the same user within the window below.'],
   report_window_hours: ['Report window (hours)', 'How far back reports count toward the auto-ban.'],
